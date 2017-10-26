@@ -1,0 +1,11 @@
+[user]
+	email =
+	name =
+[alias]
+	co = checkout
+	br = checkout -b
+	ci = commit
+	st = status
+	p = push
+	last = log -1 HEAD
+	unstage = reset HEAD --
